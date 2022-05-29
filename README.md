@@ -61,8 +61,10 @@
 </p>
 
   <br/>
-    <a href="https://github.com/sachiningale1998/github-readme-stats"><img alt="Sachin Ingale's Github Stats" style="width:57%" src="https://github-readme-stats.vercel.app/api?username=sachiningale1998&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/sachiningale1998/github-readme-stats"><img alt="Sachin Ingale's Top Languages" style="width:42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiningale1998&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachiningale1998&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="sachiningale1998" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachiningale1998&layout=compact&border_radius=0" alt="sachiningale1998" height="139" />
+</p>
 
 <br/>

@@ -55,6 +55,10 @@
 
 
 ## 📊 My Github Stats
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachiningale1998&label=Profile%20views&color=0e75b6&style=flat" alt="sachiningale1998" />
+<a href="https://github.com/sachiningale1998?tab=followers"><img src="https://img.shields.io/github/followers/m-sehrawat?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
   <br/>
     <a href="https://github.com/sachiningale1998/github-readme-stats"><img alt="Sachin Ingale's Github Stats" style="width:57%" src="https://github-readme-stats.vercel.app/api?username=sachiningale1998&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>

@@ -2,7 +2,7 @@
 <h2 align="center">I'm a Full Stack Developer.</h2>
 
 
-<p align="center"><a href="#"><img style="margin-left:10%" width="10%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a></p>
+<p align="center"><a href="#"><img style="margin-left:27%" width="46%" align="center" height="auto" src="https://sagarmude.netlify.app/static/media/avatar.711110cc.svg" height="175px"/></a></p>
 
 
 

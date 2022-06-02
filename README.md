@@ -8,6 +8,9 @@
 
 ## 🙋‍♂️ About Me
 
+Aspiring Full-Stack Developer, Skilled in both front-end and back-end web development. I enjoy creating things that live on the internet. Keen to create new and innovative websites by showcasing my skills. I have an interest in Information technology and software development. Always eager to learn new technologies to enhance my skills.
+
+
 - 🌱 I’m currently learning **MERN Stack And DSA.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**

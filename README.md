@@ -60,7 +60,7 @@ Aspiring Full-Stack Developer, Skilled in both front-end and back-end web develo
 ## 📊 My Github Stats
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachiningale1998&label=Profile%20views&color=0e75b6&style=flat" alt="sachiningale1998" />
-<a href="https://github.com/sachiningale1998?tab=followers"><img src="https://img.shields.io/github/followers/m-sehrawat?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/sachiningale1998?tab=followers"><img src="https://img.shields.io/github/followers/sachiningale1998?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
   <br/>

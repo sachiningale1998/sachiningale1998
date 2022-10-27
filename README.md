@@ -32,8 +32,6 @@ Aspiring Full-Stack Developer, Skilled in both front-end and back-end web develo
 
 ## 🚀 Languages and Tools:
 
-
-
 <p align="center"  > 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 

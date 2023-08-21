@@ -5,24 +5,19 @@
 
 ## 🙋‍♂️ About Me
 
-Aspiring Full-Stack Developer, Skilled in both front-end and back-end web development. I enjoy creating things that live on the internet. Keen to create new and innovative websites by showcasing my skills. I have an interest in Information technology and software development. Always eager to learn new technologies to enhance my skills.
+Full-Stack Developer, Skilled in both front-end and back-end web development. I enjoy creating things that live on the internet. Keen to create new and innovative websites by showcasing my skills. I have an interest in Information technology and software development. Always eager to learn new technologies to enhance my skills.
 
 
-- 🌱 I’m currently learning **MERN Stack And DSA.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://sachin-ingaleportfolio.netlify.app/)**
 
-- 📫 How to reach me **sachiningale1998@gmail.com**
-
-- 🌱 I am also interested in playing football and cycling.
 
 ### Connect with me:
 
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/sachin98/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/sachin8987/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Sachin_Ingale_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/im_sachin_ingale/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
